@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.0d3bc51b.chunk.css",
-    "main.js": "/static/js/main.ebeeece5.chunk.js",
-    "main.js.map": "/static/js/main.ebeeece5.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.61a7caaa.js",
-    "runtime-main.js.map": "/static/js/runtime-main.61a7caaa.js.map",
-    "static/js/2.995ba049.chunk.js": "/static/js/2.995ba049.chunk.js",
-    "static/js/2.995ba049.chunk.js.map": "/static/js/2.995ba049.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.e123a41b85dbe2e374cd64970590b628.js": "/precache-manifest.e123a41b85dbe2e374cd64970590b628.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.0d3bc51b.chunk.css.map": "/static/css/main.0d3bc51b.chunk.css.map",
-    "static/js/2.995ba049.chunk.js.LICENSE.txt": "/static/js/2.995ba049.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/static/media/background_photo_desktop.37be7357.jpg"
+    "main.css": "/equintanilla20.github.io/jammming_v2/static/css/main.6c5ad246.chunk.css",
+    "main.js": "/equintanilla20.github.io/jammming_v2/static/js/main.804741c0.chunk.js",
+    "main.js.map": "/equintanilla20.github.io/jammming_v2/static/js/main.804741c0.chunk.js.map",
+    "runtime-main.js": "/equintanilla20.github.io/jammming_v2/static/js/runtime-main.d3713f95.js",
+    "runtime-main.js.map": "/equintanilla20.github.io/jammming_v2/static/js/runtime-main.d3713f95.js.map",
+    "static/js/2.995ba049.chunk.js": "/equintanilla20.github.io/jammming_v2/static/js/2.995ba049.chunk.js",
+    "static/js/2.995ba049.chunk.js.map": "/equintanilla20.github.io/jammming_v2/static/js/2.995ba049.chunk.js.map",
+    "index.html": "/equintanilla20.github.io/jammming_v2/index.html",
+    "precache-manifest.f7c11f8f57aafe8ee0ae75d36ef8cd4c.js": "/equintanilla20.github.io/jammming_v2/precache-manifest.f7c11f8f57aafe8ee0ae75d36ef8cd4c.js",
+    "service-worker.js": "/equintanilla20.github.io/jammming_v2/service-worker.js",
+    "static/css/main.6c5ad246.chunk.css.map": "/equintanilla20.github.io/jammming_v2/static/css/main.6c5ad246.chunk.css.map",
+    "static/js/2.995ba049.chunk.js.LICENSE.txt": "/equintanilla20.github.io/jammming_v2/static/js/2.995ba049.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/equintanilla20.github.io/jammming_v2/static/media/background_photo_desktop.37be7357.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.61a7caaa.js",
+    "static/js/runtime-main.d3713f95.js",
     "static/js/2.995ba049.chunk.js",
-    "static/css/main.0d3bc51b.chunk.css",
-    "static/js/main.ebeeece5.chunk.js"
+    "static/css/main.6c5ad246.chunk.css",
+    "static/js/main.804741c0.chunk.js"
   ]
 }
