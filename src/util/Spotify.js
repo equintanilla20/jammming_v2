@@ -1,7 +1,9 @@
 const clientId = 'd9a44706f05e4c70a45fccfa2bad0007'
 let accessToken = '';
 //const redirectUri = 'http://JAMMMING_URL.surge.sh/';
-const redirectUri = 'http://localhost:3000';
+//const redirectUri = 'http://localhost:3000';
+const redirectUri = 'https://equintanilla20.github.io/jammming_v2';
+
 const Spotify = {
 
 	getAccessToken() {
