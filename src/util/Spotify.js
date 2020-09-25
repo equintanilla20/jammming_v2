@@ -1,4 +1,4 @@
-const clientId = 'd9a44706f05e4c70a45fccfa2bad0007'
+const clientId = 'a7f10e1d8f1746f7ac24ca724139fc87'
 let accessToken = '';
 //const redirectUri = 'http://JAMMMING_URL.surge.sh/';
 //const redirectUri = 'http://localhost:3000';
