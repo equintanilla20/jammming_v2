@@ -29,7 +29,7 @@ class Playlist extends React.Component {
 					onRemove={this.props.onRemove}
 					isRemoval={this.state.isRemoval}
 				/>
-				<a href="!#" className="Playlist-save" onClick={this.props.onSave}>SAVE TO SPOTIFY</a>
+				<a href="#!" className="Playlist-save" onClick={this.props.onSave}>SAVE TO SPOTIFY</a>
 			</div>
 		)
 	}
